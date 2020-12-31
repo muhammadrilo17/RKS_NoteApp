@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Note App</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="submit">Submit</string>
+    <string name="date">Date and time</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="detail">Detail</string>
+    <string name="cancel">Cancel</string>
 </resources>
