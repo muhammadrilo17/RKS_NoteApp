@@ -10,6 +10,13 @@ This application is an Note App Prototype for the Lecture Requirement. Developed
 
 ## Documentation
 
+Wireframe and etc:
+
+```bash
+https://drive.google.com/drive/u/3/folders/1ZUo0BZhKD_RWcAymleRW-pjldgC4eohu
+```
+
+
 Download this app:
 
 ```bash
