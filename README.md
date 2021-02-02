@@ -6,7 +6,8 @@ Name : Eko Muhammad Rilo Pembudi <br>
 
 Class : Informatics International
 
-This application is an Note App Prototype for the Lecture Requirement. Developed by android studio. The data in this app all is fake not real, if you want to make it real, I recommended u to use room as best sqlite for android development.
+This application is an Note App Prototype for the Lecture Requirement. Developed by android studio. The data in this app all is fake not real, if you want to make it real, I recommended u to use room as best sqlite for android development. <br>
+This application was created following a wireframe design, workflow and design documentation during UTS. Below will provide a download link for the application and link wireframe, workflow, and design documentation when UTS.
 
 ## Documentation
 
